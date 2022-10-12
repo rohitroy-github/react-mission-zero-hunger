@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.personal-login-container {
+  display: flex;
+  display: block;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.heading h3 {
+  text-align: center;
+  padding: 3%;
+  font-size: 25px;
+}
+
+.btn-login {
+  background-image: linear-gradient(
+    to right top,
+    #d030dd,
+    #b827de,
+    #9d22df,
+    #7d20e0,
+    #5421e0
+  );
+}
