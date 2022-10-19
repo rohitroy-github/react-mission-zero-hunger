@@ -1,5 +1,3 @@
-#Mission Zero Hunger
-<br />
 This is a <b>React</b> project with the title <b>Mission Zero Hunger</b>.
 <br />
 <br />
